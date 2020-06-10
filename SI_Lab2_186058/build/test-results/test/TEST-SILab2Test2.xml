@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test2" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T19:48:28" hostname="LAPTOP-E9A0NI3I" time="0.025">
+  <properties/>
+  <testcase name="testEVeryStatement()" classname="SILab2Test2" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
