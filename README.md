@@ -7,35 +7,38 @@
 	Ја добив групата на код 5
 
 Control Flow Graph
+
 	![Screenshot_2](https://user-images.githubusercontent.com/63320787/84317200-af0e7780-ab6c-11ea-960f-7a7b41edbc45.png)
 
 Цикломатска комплексност
+
 	Цикломатската комплексност на овој код е 6, истата ја добив преку бројот на региони во графот.
 
 Тест случаи според критериумот Every statement
-Тест случај за Every statement критериумот е само еден, доколку се внесе број кој што е помал од нула да се испечати соодветна порака.
+
+	Тест случај за Every statement критериумот е само еден, доколку се внесе број кој што е помал од нула да се испечати соодветна порака.
 
 Тест случаи според критериумот Every path
 
         //A,B, D, E.1, E.2, (H, G,F J, K, L, O, E.3, E.2), P, Q
-//TEST --> 00##
+	//TEST --> 00##
       
         //A,B, D, E.1, E.2, (H, G,F, I, J, K, L, O, E.3, E.2), P, Q
-//TEST --> #0##
+	//TEST --> #0##
        
 	//A,B, D, E.1, E.2, P, Q
-//TEST --> NE E MOZHNO
+	//TEST --> NE E MOZHNO
 
         //A,B, D , E.1, E.2, (H, G,F, I, J, L, O, E.3, E.2), P, G
-//TEST --> #000
+	//TEST --> #000
         
 	//A,B, D, E.1, E.2, (F, M,N, O, E.3, E.2), P, Q
-//TEST --> ####
+	//TEST --> ####
        
 	//A,B, D , E.1, E.2, (H, G,F, J, L, O, E.3, E.2), P, Q
-//TEST --> 0000
+	//TEST --> 0000
        
         //A,B, C, Q
-//TEST --> "PRAZEN STRING"
+	//TEST --> "PRAZEN STRING"
 
 
