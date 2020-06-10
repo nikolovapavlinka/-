@@ -8,7 +8,7 @@
 
 Control Flow Graph
 
-	![Screenshot_2](https://user-images.githubusercontent.com/63320787/84317200-af0e7780-ab6c-11ea-960f-7a7b41edbc45.png)
+![Screenshot_2](https://user-images.githubusercontent.com/63320787/84317200-af0e7780-ab6c-11ea-960f-7a7b41edbc45.png)
 
 Цикломатска комплексност
 
